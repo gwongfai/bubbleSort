@@ -1,0 +1,9 @@
+Index: TestZgh/src/main/java/com/zgh/testy2
+===================================================================
+diff --git a/TestZgh/src/main/java/com/zgh/testy2 b/TestZgh/src/main/java/com/zgh/testy2
+deleted file mode 100644
+--- a/TestZgh/src/main/java/com/zgh/testy2	(revision 24b6ea822beb6d7cfdb41e5bae3b6e389405528d)
++++ /dev/null	(revision 24b6ea822beb6d7cfdb41e5bae3b6e389405528d)
+@@ -1,1 +0,0 @@
+-2222
+\ No newline at end of file
